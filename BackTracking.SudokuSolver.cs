@@ -2,6 +2,9 @@
 
 namespace DSA
 {
+    /// <summary>
+    /// https://leetcode.com/problems/sudoku-solver/
+    /// </summary>
     public partial class BackTracking
     {
         public static void SudokuSolver()
